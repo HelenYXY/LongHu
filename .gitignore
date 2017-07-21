@@ -1,0 +1,6 @@
+.idea/
+.wing/
+bin-debug/
+promise/
+wingProperties.json
+*.iml

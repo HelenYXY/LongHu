@@ -1,0 +1,40 @@
+{
+	"groups": [
+		{
+			"keys": "egret_icon_png,description_json,bg_png,dragon_png,tiger_png,lhd_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "bg_png",
+			"type": "image",
+			"url": "assets/bg.png"
+		},
+		{
+			"name": "dragon_png",
+			"type": "image",
+			"url": "assets/dragon.png"
+		},
+		{
+			"name": "tiger_png",
+			"type": "image",
+			"url": "assets/tiger.png"
+		},
+		{
+			"name": "lhd_png",
+			"type": "image",
+			"url": "assets/lhd.png"
+		}
+	]
+}
